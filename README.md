@@ -23,7 +23,7 @@ If the code doesn't work for you, please check the following list:
 
 **GA**
 
-<img src="https://github.com/starfriend10/Metaheuristics/blob/main/Screenshot_GA.jpg" width="800">
+<img src="https://github.com/starfriend10/Metaheuristics/blob/main/Screenshot_GA.jpg" width="1200">
 
 **GW**
 
