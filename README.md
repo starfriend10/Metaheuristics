@@ -16,15 +16,17 @@ If the code doesn't work for you, please check the following list:
 •	Check the above paper and its SI for more information.
 
 **Code running examples**
+```diff
 
-PSO
+- PSO
 
 ![image](https://github.com/starfriend10/Metaheuristics/assets/30630110/4a7362a6-7ecf-43f2-b0fd-fbc554bb2d21 | width=100)
-<img src="[https://github.com/favicon.ico](https://github.com/starfriend10/Metaheuristics/assets/30630110/4a7362a6-7ecf-43f2-b0fd-fbc554bb2d21)" width="100">
+<img src="https://github.com/starfriend10/Metaheuristics/assets/30630110/4a7362a6-7ecf-43f2-b0fd-fbc554bb2d21" width="100">
 
 GA
 
 ![image](https://github.com/starfriend10/Metaheuristics/blob/main/Screenshot_GA.jpg | width=100)
+<img src="https://github.com/starfriend10/Metaheuristics/blob/main/Screenshot_GA.jpg" width="100">
 
 GW
 
@@ -34,5 +36,4 @@ GW
 
 Most of the codes were obtained or modified from other sources, additional credits to Hossam Faris and Jiachun Sun.
 
-```diff
-- text in red
+
