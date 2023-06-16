@@ -9,10 +9,10 @@ If any of the code benefits your research, please give a credit by citing **Zhu 
 
 The sample codes were designed for 2 hidden layers multilayer perceptrons (MLPs). You can change the hyperparameter ranges based on your preferences.
 If the code doesn't work for you, please check the following list:\
-•	The codes were created in 2019 and tested till 2022 in both Windows 7/10 and ubuntu 16.04, but it may not fit your Python environment or OS environment.
-•	You may want to check the packages and their version if any compatible problem exist.
-•	The sample codes skip some unnessary data processing steps, so check if any issues associated with data preprocessing.
-•	The sample codes assume that you use parallel computing (i.e. multiple CPU cores). If you use single CPU core, please change the codes accordingly.
+•	The codes were created in 2019 and tested till 2022 in both Windows 7/10 and ubuntu 16.04, but it may not fit your Python environment or OS environment.\
+•	You may want to check the packages and their version if any compatible problem exist.\
+•	The sample codes skip some unnessary data processing steps, so check if any issues associated with data preprocessing.\
+•	The sample codes assume that you use parallel computing (i.e. multiple CPU cores). If you use single CPU core, please change the codes accordingly.\
 •	Check the above paper and its SI for more information.
 
 **Code running examples**
