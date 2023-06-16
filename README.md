@@ -8,7 +8,7 @@ If any of the code benefits your research, please give a credit by citing **Zhu 
 **Trouble shooting**
 
 The sample codes were designed for 2 hidden layers multilayer perceptrons (MLPs). You can change the hyperparameter ranges based on your preferences.
-If the code doesn't work for you, please check the following list:
+If the code doesn't work for you, please check the following list:\
 •	The codes were created in 2019 and tested till 2022 in both Windows 7/10 and ubuntu 16.04, but it may not fit your Python environment or OS environment.
 •	You may want to check the packages and their version if any compatible problem exist.
 •	The sample codes skip some unnessary data processing steps, so check if any issues associated with data preprocessing.
@@ -29,7 +29,7 @@ If the code doesn't work for you, please check the following list:
 
 ![image](https://github.com/starfriend10/Metaheuristics/blob/main/GIF_GW_cut2.gif)
 
-**Additional credit**
+**Additional creditS**
 
 Most of the codes were obtained or modified from other sources, additional credits to Hossam Faris and Jiachun Sun.
 
