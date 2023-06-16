@@ -18,14 +18,20 @@ If the code doesn't work for you, please check the following list:
 **Code running examples**
 
 PSO
-![image](https://github.com/starfriend10/Metaheuristics/assets/30630110/4a7362a6-7ecf-43f2-b0fd-fbc554bb2d21)
+
+![image](https://github.com/starfriend10/Metaheuristics/assets/30630110/4a7362a6-7ecf-43f2-b0fd-fbc554bb2d21 | width=100)
+
 GA
-![image](https://github.com/starfriend10/Metaheuristics/blob/main/Screenshot_GA.jpg)
+
+![image](https://github.com/starfriend10/Metaheuristics/blob/main/Screenshot_GA.jpg | width=100)
+
 GW
+
 ![image](https://github.com/starfriend10/Metaheuristics/assets/30630110/4a7362a6-7ecf-43f2-b0fd-fbc554bb2d21)
 
 **Additional credit**
 
 Most of the codes were obtained or modified from other sources, additional credits to Hossam Faris and Jiachun Sun.
 
-
+```diff
+- text in red
