@@ -19,14 +19,13 @@ If the code doesn't work for you, please check the following list:
 
 **PSO**
 
-<img src="https://github.com/starfriend10/Metaheuristics/assets/30630110/4a7362a6-7ecf-43f2-b0fd-fbc554bb2d21" width="300">
+<img src="https://github.com/starfriend10/Metaheuristics/assets/30630110/4a7362a6-7ecf-43f2-b0fd-fbc554bb2d21" width="600">
 
-GA
+**GA**
 
-![image](https://github.com/starfriend10/Metaheuristics/blob/main/Screenshot_GA.jpg | width=100)
-<img src="https://github.com/starfriend10/Metaheuristics/blob/main/Screenshot_GA.jpg" width="100">
+<img src="https://github.com/starfriend10/Metaheuristics/blob/main/Screenshot_GA.jpg" width="600">
 
-GW
+**GW**
 
 ![image](https://github.com/starfriend10/Metaheuristics/blob/main/GIF_GW_cut2.gif)
 
