@@ -29,7 +29,7 @@ If the code doesn't work for you, please check the following list:\
 
 ![image](https://github.com/starfriend10/Metaheuristics/blob/main/GIF_GW_cut2.gif)
 
-**Additional creditS**
+**Additional credits**
 
 Most of the codes were obtained or modified from other sources, additional credits to Hossam Faris and Jiachun Sun.
 
